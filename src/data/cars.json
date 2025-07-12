@@ -1,0 +1,42 @@
+[
+  {
+    "id": "toyota",
+    "model": "Toyota Camry",
+    "color": "Black",
+    "price": "35000",
+    "manufacturer": "Toyota",
+    "photo": "/toyota.jpg"
+  },
+  {
+    "id": "bmw",
+    "model": "BMW 5 Series",
+    "color": "Silver",
+    "price": "55000",
+    "manufacturer": "BMW",
+    "photo": "/bmw.jpg"
+  },
+  {
+    "id": "tesla",
+    "model": "Tesla Model 3",
+    "color": "White",
+    "price": "48000",
+    "manufacturer": "Tesla",
+    "photo": "/tesla.jpg"
+  },
+  {
+    "id": "audi",
+    "model": "Audi A6",
+    "color": "Blue",
+    "price": "51000",
+    "manufacturer": "Audi",
+    "photo": "/audi.jpg"
+  },
+  {
+    "id": "kia",
+    "model": "Kia Sportage",
+    "color": "Red",
+    "price": "29000",
+    "manufacturer": "Kia",
+    "photo": "/kia.jpg"
+  }
+]
